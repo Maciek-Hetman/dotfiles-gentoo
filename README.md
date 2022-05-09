@@ -18,7 +18,7 @@ Default shell is zsh. I use following aliases:
 ```vim``` is ```nvim```  
 ```gedit``` is ```gnome-text-editor```  
   
-Shortcuts:
+Shortcuts:  
 ```l```   = ```lsd -l```  
 ```ll```  = ```lsd -la```  
 ```lt```  = ```lsd --tree```  
