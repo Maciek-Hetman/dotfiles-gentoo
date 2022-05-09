@@ -9,5 +9,5 @@ General Gentoo setup:
     - MTP and iOS support  
 
 ## Screenshots
-[screenshot1](screenshots/screen1.png)  
-[screenshot2](screenshots/screen2.png)  
+![Screenshot](screenshots/screen1.png)  
+![Screenshot](screenshots/screen2.png)  
